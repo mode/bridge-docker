@@ -1,3 +1,4 @@
-Example on how to run Bridge on Aptible
+Running Bridge client in Aptible is no longer supported.
 
-http://help.modeanalytics.com/connecting-to-databases/bridge-on-aptible/
+Please see https://help.modeanalytics.com/articles/run-the-bridge-client-in-docker/
+

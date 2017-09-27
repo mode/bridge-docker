@@ -1,1 +1,0 @@
-service: /mode/mode-bridge
